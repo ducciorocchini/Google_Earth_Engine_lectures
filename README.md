@@ -28,6 +28,8 @@ https://github.com/rociobeatrizc/GEE?tab=readme-ov-file
 
 Make an AOI to the left and change in the code from geometry to AOI.
 
+You can make use of the following code: https://code.earthengine.google.com/957b34097e4d6f4dc33ace082ec7cad7
+
 Then you can make a median with the following code also selecting the period:
 
 ``` javascript
