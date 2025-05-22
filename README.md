@@ -115,7 +115,10 @@ Export.image.toDrive({
 });
 ```
 
-Click on tasks in the orange button to the right console.
+Click on tasks in the orange button to the right console. Click on RUN.
+While running the task is grey in the console with a spinning wheel.
+Check it in DRIVE!
+
 
 
 
