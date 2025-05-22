@@ -101,6 +101,10 @@ Map.addLayer(composite, {
 
 <img width="1728" alt="Screenshot 2025-05-22 at 15 41 55" src="https://github.com/user-attachments/assets/592114c4-7302-4e85-94f0-8320c617a973" />
 
+To better view the image you can deselect the AOI to the left and select only the median to the right:
+
+<img width="2048" alt="Screenshot 2025-05-22 at 16 38 40" src="https://github.com/user-attachments/assets/0af8628e-dd96-4553-b31a-22da78ab334f" />
+
 Then you can export adding the following code:
 
 ``` javascript
