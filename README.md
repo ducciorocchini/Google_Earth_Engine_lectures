@@ -30,6 +30,8 @@ You can make use of the following code: https://code.earthengine.google.com/957b
 
 Make an AOI to the left and change in the code from geometry to AOI.
 
+Change the dates and the bands.
+
 Then you can make a median with the following code also selecting the period:
 
 ``` javascript
