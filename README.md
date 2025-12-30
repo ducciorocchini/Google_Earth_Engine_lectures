@@ -34,7 +34,7 @@ https://github.com/rociobeatrizc/GEE?tab=readme-ov-file
 
 You can make use of the following code: https://code.earthengine.google.com/957b34097e4d6f4dc33ace082ec7cad7
 
-Make an AOI to the left and change in the code from geometry to AOI.
+In the code, remove the aoi and make an AOI to the left and change in the code from geometry to AOI.
 
 Change the dates and the bands.
 
