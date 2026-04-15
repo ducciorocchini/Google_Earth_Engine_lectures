@@ -136,8 +136,8 @@ Change the dates and the bands.
 
 The median is set up.
 
-Click on tasks in the orange button to the right console. Click on RUN.
-While running the task is grey in the console with a spinning wheel.
+Click on Run ontop of the code.
+then in Tasks click the blue "RUN". 
 Check it in DRIVE!
 
 
