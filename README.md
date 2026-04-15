@@ -130,7 +130,7 @@ Export.image.toDrive({
 
 You can make use of the following code: https://code.earthengine.google.com/957b34097e4d6f4dc33ace082ec7cad7
 
-In the code, remove the aoi and make an AOI to the left and change in the code from geometry to AOI.
+In the code, remove the aoi and make a polygon using the polygon tool; then, in the code, replace the "geometry" with "aoi"
 
 Change the dates and the bands.
 
