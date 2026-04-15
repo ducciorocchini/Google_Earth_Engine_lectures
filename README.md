@@ -130,14 +130,19 @@ Export.image.toDrive({
 
 You can make use of the following code: https://code.earthengine.google.com/957b34097e4d6f4dc33ace082ec7cad7
 
-In the code, remove the aoi and make a polygon using the polygon tool; then, in the code, replace the "geometry" with "aoi"
+In the code, 
++ remove the aoi 
++ make a polygon using the polygon tool
++ in the code, replace the "geometry" with "aoi"
 
 Change the dates and the bands.
 
 The median is set up.
 
 Click on Run ontop of the code.
+
 then in Tasks click the blue "RUN". 
+
 Check it in DRIVE!
 
 
